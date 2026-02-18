@@ -1,3 +1,8 @@
+---
+name: manage-issues
+description: "Управление GitHub Issues — создание баг-репортов, трекинг задач, закрытие issues после исправления."
+---
+
 # Управление GitHub Issues
 
 ## Когда использовать
